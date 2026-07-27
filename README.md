@@ -1,4 +1,4 @@
-# CCNA_Excersie_Labs
+# CCNA_Exercise_Labs
 Some Cisco Packet Tracer lab exercises to help you pass the CCNA
 
 There are 5 labs in total:
